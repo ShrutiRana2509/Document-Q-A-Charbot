@@ -15,8 +15,7 @@
 - Run the app: streamlit run app.py
 
 
-
-- **Usage**
+ **Usage**
 - Embed documents via the sidebar
 - Enter your question in the input box
 - Get concise, context-aware answers
