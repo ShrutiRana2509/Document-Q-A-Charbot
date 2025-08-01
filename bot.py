@@ -12,7 +12,7 @@ from langchain.vectorstores.faiss import FAISS
 from langchain.document_loaders import PyPDFDirectoryLoader
 
 
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR_API_KEY"
 
 llm = ChatGroq(
     groq_api_key=os.environ["GROQ_API_KEY"],
